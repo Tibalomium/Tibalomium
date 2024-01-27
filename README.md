@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mobile app development student currently doing an internship at zocom.
+
 <!--
 **Tibalomium/Tibalomium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
